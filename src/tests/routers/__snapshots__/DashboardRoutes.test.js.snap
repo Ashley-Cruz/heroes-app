@@ -1,0 +1,483 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <DashboardRoutes /> debe de mostrarse correctamente 1`] = `
+Array [
+  <nav
+    className="navbar navbar-expand-sm navbar-dark bg-dark"
+  >
+    <a
+      className="navbar-brand"
+      href="/"
+      onClick={[Function]}
+    >
+      Asociaciones
+    </a>
+    <div
+      className="navbar-collapse"
+    >
+      <div
+        className="navbar-nav"
+      >
+        <a
+          aria-current="page"
+          className="nav-item nav-link active"
+          href="/marvel"
+          onClick={[Function]}
+          style={Object {}}
+        >
+          Marvel
+        </a>
+        <a
+          aria-current={null}
+          className="nav-item nav-link"
+          href="/dc"
+          onClick={[Function]}
+        >
+          DC
+        </a>
+        <a
+          aria-current={null}
+          className="nav-item nav-link"
+          href="/search"
+          onClick={[Function]}
+        >
+          Search
+        </a>
+      </div>
+    </div>
+    <div
+      className="navbar-collapse collapse w-100 order-3 dual-collapse2"
+    >
+      <ul
+        className="navbar-nav ml-auto"
+      >
+        <span
+          className="nav-item nav-link text-info"
+        >
+          Ashley
+        </span>
+        <button
+          className="nav-item nav-link btn"
+          onClick={[Function]}
+        >
+          Logout
+        </button>
+      </ul>
+    </div>
+  </nav>,
+  <div
+    className="container mt-2"
+  >
+    <div>
+      <h1>
+        MarvelScreen
+      </h1>
+      <hr />
+      <div
+        className="card-columns container-hero animate__animated animate__fadeIn"
+      >
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Spider Man"
+            className="container-img"
+            src="./assets/heroes/marvel-spider.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Spider Man
+              </h3>
+              <p>
+                Peter Parker
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                Amazing Fantasy #15
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-spider"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Captain America"
+            className="container-img"
+            src="./assets/heroes/marvel-captain.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Captain America
+              </h3>
+              <p>
+                Steve Rogers
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                Captain America Comics #1
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-captain"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Iron Man"
+            className="container-img"
+            src="./assets/heroes/marvel-iron.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Iron Man
+              </h3>
+              <p>
+                Tony Stark
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                Tales of Suspense #39
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-iron"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Thor"
+            className="container-img"
+            src="./assets/heroes/marvel-thor.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Thor
+              </h3>
+              <p>
+                Thor Odinson
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                Journey into Myster #83
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-thor"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Hulk"
+            className="container-img"
+            src="./assets/heroes/marvel-hulk.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Hulk
+              </h3>
+              <p>
+                Bruce Banner
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                The Incredible Hulk #1
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-hulk"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Wolverine"
+            className="container-img"
+            src="./assets/heroes/marvel-wolverine.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Wolverine
+              </h3>
+              <p>
+                James Howlett
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                The Incredible Hulk #180
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-wolverine"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Daredevil"
+            className="container-img"
+            src="./assets/heroes/marvel-daredevil.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Daredevil
+              </h3>
+              <p>
+                Matthew Michael Murdock
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                Daredevil #1
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-daredevil"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Hawkeye"
+            className="container-img"
+            src="./assets/heroes/marvel-hawkeye.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Hawkeye
+              </h3>
+              <p>
+                Clinton Francis Barton
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                Tales of Suspense #57
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-hawkeye"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Cyclops"
+            className="container-img"
+            src="./assets/heroes/marvel-cyclops.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Cyclops
+              </h3>
+              <p>
+                Scott Summers
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                X-Men #1
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-cyclops"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="container-img-text"
+        >
+          <img
+            alt="Silver Surfer"
+            className="container-img"
+            src="./assets/heroes/marvel-silver.jpg"
+          />
+          <div
+            className="text-img"
+          >
+            <div
+              className="text-item text-1"
+            >
+              <h3>
+                Silver Surfer
+              </h3>
+              <p>
+                Norrin Radd
+              </p>
+            </div>
+            <div
+              className="text-item text-2"
+            >
+              <p>
+                First appearance:
+              </p>
+              <p>
+                The Fantastic Four #48
+              </p>
+              <a
+                className="link"
+                href="/hero/marvel-silver"
+                onClick={[Function]}
+              >
+                Más...
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
